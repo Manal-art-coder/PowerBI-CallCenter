@@ -62,7 +62,7 @@ Le projet repose sur plusieurs tables de données :
 ## 🚀 Comment Utiliser ce Projet ?
 1. **Cloner ce dépôt GitHub** :
    ```sh
-   git clone https://github.com/ton-utilisateur/powerbi-callcenter.git
+   git clone https://github.com/Manal-art-coder/powerbi-callcenter.git
    ```
 2. **Ouvrir le fichier Power BI** :
    - Télécharger le fichier **.pbix**
