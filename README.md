@@ -57,7 +57,6 @@ Le projet repose sur plusieurs tables de données :
 ### 3️⃣ **Performance des Managers et Employés**
 - Comparaison des performances des managers
 - Temps d'attente moyen par équipe / employé
-- 
 
 ## 🚀 Comment Utiliser ce Projet ?
 1. **Cloner ce dépôt GitHub** :
