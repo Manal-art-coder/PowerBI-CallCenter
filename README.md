@@ -71,7 +71,7 @@ Le projet repose sur plusieurs tables de données :
 ## 📎 Fichiers Disponibles
 - `powerbi-callcenter.pbix` : Fichier Power BI avec le modèle et le tableau de bord
 - `data/` : Dossier contenant les fichiers CSV utilisés
-- `scripts/` : Contient les scripts de transformation Power Query et DAX
+- `scripts/` : Contient les scripts de transformation Power Query 
 - `README.md` : Documentation complète du projet
 
 ## 🏆 Résultats et Enseignements
