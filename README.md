@@ -84,4 +84,4 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter vi
 
 📌 **Auteur** : Manal JEWA  
 📅 **Date** : Février 2025  
-💼 **Technologies utilisées** : Power BI, Power Query, DAX, CSV
+💼 **Technologies utilisées** : Power BI, Power Query, DAX.
