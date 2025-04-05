@@ -58,20 +58,9 @@ Le projet repose sur plusieurs tables de données :
 - Comparaison des performances des managers
 - Temps d'attente moyen par équipe / employé
 
-## 🚀 Comment Utiliser ce Projet ?
-1. **Cloner ce dépôt GitHub** :
-   ```sh
-   git clone https://github.com/Manal-art-coder/powerbi-callcenter.git
-   ```
-2. **Ouvrir le fichier Power BI** :
-   - Télécharger le fichier **.pbix**
-   - L'ouvrir avec **Microsoft Power BI Desktop**
-3. **Explorer les données et interagir avec les visualisations**
-
 ## 📎 Fichiers Disponibles
 - `powerbi-callcenter.pbix` : Fichier Power BI avec le modèle et le tableau de bord
 - `Data_Call_Center` : Dossier contenant les fichiers CSV utilisés
-- `scripts` : Contient le script de transformation Power Query 
 - `README.md` : Documentation complète du projet
 
 ## 🏆 Résultats et Enseignements
